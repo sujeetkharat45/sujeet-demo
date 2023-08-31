@@ -1,2 +1,3 @@
 # sujeet-demo
-This my first repository
+This my first Git Repository.
+Author- Sujeet
